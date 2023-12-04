@@ -1,0 +1,241 @@
+question,user,english_translation,"label (1: on topic, 0: off topic) "
+"Hola, ¿cómo estás?","Muy bien, gracias.",I am doing very well.,1
+"Hola, ¿cómo estás?",Estoy triste.,I am sad.,1
+"Hola, ¿cómo estás?",Estoy muy triste para ser honesta,I am very sad if I am being honest.,1
+"Hola, ¿cómo estás?",Estoy tan feliz,I am very happy.,1
+"Hola, ¿cómo estás?",Estoy aburrida,I am bored.,1
+"Hola, ¿cómo estás?",tengo un gato grande,I have a big cat,0
+"Hola, ¿cómo estás?",mi comida favorita son los macarrones,My favorite food is macaroni,0
+"Hola, ¿cómo estás?",Mi mejor amiga es rihanna,My best friend is Rihanna,0
+"Hola, ¿cómo estás?",Seré rica algún día,I will be rich someday,0
+"Hola, ¿cómo estás?",mi refrigerador esta roto,my refrigerator is broken,0
+¿Estás libre hoy?,si estoy libre hoy,yes i am free,1
+¿Estás libre hoy?,si,yes,1
+¿Estás libre hoy?,No estoy ocupada,no i am busy,1
+¿Estás libre hoy?,no,no,1
+¿Estás libre hoy?,seguro que haré tiempo para ti,sure i will make time for you,1
+¿Estás libre hoy?,la playa es mi lugar favorito,the beach is my favorite place,0
+¿Estás libre hoy?,quiero unirme al circo,i want to join the circus,0
+¿Estás libre hoy?,invierto en criptomonedas,i invest in cryptocurrency,0
+¿Estás libre hoy?,El presidente viene a la ciudad,the president is coming to town,0
+¿Estás libre hoy?,mi deporte favorito es el fútbol,my favorite sport is soccer,0
+¿Quieres ir de compras conmigo?,si,yes,1
+¿Quieres ir de compras conmigo?,no,no,1
+¿Quieres ir de compras conmigo?,Me encantaría ir contigo,i would love to come with you,1
+¿Quieres ir de compras conmigo?,"Sí, solo necesito encargarme de algo primero.",yes i just need to take care of something first,1
+¿Quieres ir de compras conmigo?,"no, no quiero ir",no i don't want to go,1
+¿Quieres ir de compras conmigo?,esta manta es cálida,this blanket is warm,0
+¿Quieres ir de compras conmigo?,Me gusta más el verano que el invierno.,i like summer better than winter,0
+¿Quieres ir de compras conmigo?,A veces me gusta escribir en mi diario.,sometimes i like write in my journal,0
+¿Quieres ir de compras conmigo?,esta noche voy a cocinar tres horas,tonight i am going to cook for three hours,0
+¿Quieres ir de compras conmigo?,Mi mejor amiga es una tejedora experta,my best friend is an expert knitter,0
+¿A qué hora te gustaría ir?,vamos ahora,let's go now,1
+¿A qué hora te gustaría ir?,no quiero ir,i don't want to go,1
+¿A qué hora te gustaría ir?,a las 11 de la mañana,at 11pm,1
+¿A qué hora te gustaría ir?,a las 11,at 11,1
+¿A qué hora te gustaría ir?,lo antes posible,as soon as possible,1
+¿A qué hora te gustaría ir?,hagamos pastel de cerezas,let's make cherry pie,0
+¿A qué hora te gustaría ir?,esta tienda vende bagels,this shop sells bagels,0
+¿A qué hora te gustaría ir?,mañana voy al museo,tomorrow i go to the museum,0
+¿A qué hora te gustaría ir?,ese es mi maestro,that's my teacher,0
+¿A qué hora te gustaría ir?,estoy usando un pañuelo,i am wearing a bandana,0
+"Vale, nos vemos luego.",hasta la vista,see you around,1
+"Vale, nos vemos luego.",gracias me divertí,thanks i had fun,1
+"Vale, nos vemos luego.",nos vemos pronto,see you soon,1
+"Vale, nos vemos luego.",hagamos esto de nuevo,let's do this again,1
+"Vale, nos vemos luego.",OK,ok,1
+"Vale, nos vemos luego.",voy a un partido de béisbol,i am going to a baseball game,0
+"Vale, nos vemos luego.",hay un gato,there is a cat,0
+"Vale, nos vemos luego.",Tengo muchas fans,i have many fans,0
+"Vale, nos vemos luego.",mi tienda favorita vende dulces,my favorite shop sells candy,0
+"Vale, nos vemos luego.",yo naci en New York,i was born in new york,0
+"Hola, ¿cómo estás?",Estoy feliz y cansado.,,1
+"Hola, ¿cómo estás?",Me encanta estar bien.,,1
+"Hola, ¿cómo estás?","Me siento bien, gracias.",,1
+"Hola, ¿cómo estás?","una agua, favor.",,1
+"Hola, ¿cómo estás?",me siento triste,,1
+"Hola, ¿cómo estás?",No.,No.,0
+"Hola, ¿cómo estás?",No. quiero un desayuno.,,0
+"Hola, ¿cómo estás?",Café bien.,,0
+"Hola, ¿cómo estás?",bueno.,,0
+"Hola, ¿cómo estás?",gracias.,Thank you.,0
+¿Estás libre hoy?,"Sí, hoy tengo tiempo.",,1
+¿Estás libre hoy?,"Sí, tengo tiempo hoy.",,1
+¿Estás libre hoy?,"Hoy, sí tengo tiempo.",,1
+¿Estás libre hoy?,"Tengo tiempo, sí, hoy.",,1
+¿Estás libre hoy?,"Hoy tengo algo de tiempo, sí.",,1
+¿Estás libre hoy?,Son las ocho.,,0
+¿Estás libre hoy?,"No, gracias.",,0
+¿Estás libre hoy?,"No, son dos pesos.",,0
+¿Estás libre hoy?,"Sí, un helado, por favor.",,0
+¿Estás libre hoy?,Tengo dinero.,,0
+¿Quieres ir de compras conmigo?,"Una chaqueta, la necesito comprar, sí.",,1
+¿Quieres ir de compras conmigo?,La chaqueta debo comprar,,1
+¿Quieres ir de compras conmigo?,"Sí, quiero comprar una chaqueta.",,1
+¿Quieres ir de compras conmigo?,"Sí, me hace falta una chaqueta.",,1
+¿Quieres ir de compras conmigo?,"Sí, comprar chaqueta debo.",,1
+¿Quieres ir de compras conmigo?,¿Qué escuela?,,0
+¿Quieres ir de compras conmigo?,Tengo un hermano.,,0
+¿Quieres ir de compras conmigo?,Estoy enviando un mensaje ahora mismo.,,0
+¿Quieres ir de compras conmigo?,"Sí, está lloviendo.",,0
+¿Quieres ir de compras conmigo?,Mi amigo no está aquí.,,0
+¿A qué hora te gustaría ir?,A las diez estoy disponible.,,1
+¿A qué hora te gustaría ir?,Cualquier momento.,,1
+¿A qué hora te gustaría ir?,Diez en punto.,,1
+¿A qué hora te gustaría ir?,Será a las diez.,,1
+¿A qué hora te gustaría ir?,A las 10 horas.,,1
+¿A qué hora te gustaría ir?,La vida es corta.,,0
+¿A qué hora te gustaría ir?,El tiempo tiene números.,,0
+¿A qué hora te gustaría ir?,Yo puedo contar.,,0
+¿A qué hora te gustaría ir?,Tomo un taxi.,,0
+¿A qué hora te gustaría ir?,"Sí, voy a nadar.",,0
+"Vale, nos vemos luego.",Hasta la vista.,,1
+"Vale, nos vemos luego.",Hasta pronto.,,1
+"Vale, nos vemos luego.",Adiós por ahora.,,1
+"Vale, nos vemos luego.",Nos vemos luego.,,1
+"Vale, nos vemos luego.","Ciao, hasta luego.",,1
+"Vale, nos vemos luego.",No tengo coche.,,0
+"Vale, nos vemos luego.","Vale, te pago.",,0
+"Vale, nos vemos luego.","Sí, vayamos al cine.",,0
+"Vale, nos vemos luego.",Dormiré más tarde.,,0
+"Vale, nos vemos luego.",Buenos días.,,0
+"Hola, ¿cómo estás?",¡Buenos días!,Good morning,0
+"Hola, ¿cómo estás?",¡Hola!,Hello,0
+"Hola, ¿cómo estás?",Me gusta el café,I like coffee,0
+"Hola, ¿cómo estás?",Hace calor hoy,It's hot today,0
+"Hola, ¿cómo estás?","Sí, por favor",Yes please,0
+"Hola, ¿cómo estás?","Bien, gracias.","Fine, thank you.",1
+"Hola, ¿cómo estás?",Muy bien.,Very well,1
+"Hola, ¿cómo estás?","Bien, ¿y tú?","Fine, and you?",1
+"Hola, ¿cómo estás?","Cansado, pero bien.",Tired but fine.,1
+"Hola, ¿cómo estás?",Feliz,Happy,1
+¿Estás libre hoy?,Son las tres,It's three o'clock,0
+¿Estás libre hoy?,Hace sol hoy,It's sunny today,0
+¿Estás libre hoy?,Buenos días,Good morning,0
+¿Estás libre hoy?,Voy a estudiar español,I am going to study Spanish,0
+¿Estás libre hoy?,Estoy cansado,I am tired,0
+¿Estás libre hoy?,"Sí, estoy libre.","Yes, I am free.",1
+¿Estás libre hoy?,"No, estoy ocupado","No, I am busy",1
+¿Estás libre hoy?,"Sí, por la tarde","Yes, in the afternoon",1
+¿Estás libre hoy?,No sé,I don’t know,1
+¿Estás libre hoy?,"""¿Para qué?"" (For what?)",For what?,1
+¿Quieres ir de compras conmigo?,"Sí, me gusta nadar","Yes, I like to swim",0
+¿Quieres ir de compras conmigo?,Tengo dos hermanos,I have two brothers,0
+¿Quieres ir de compras conmigo?,Es la tarde,It's afternoon,0
+¿Quieres ir de compras conmigo?,Voy al parque,I am going to the park,0
+¿Quieres ir de compras conmigo?,Estoy aprendiendo español,I am learning Spanish,0
+¿Quieres ir de compras conmigo?,"Sí, quiero","Yes, I want to",1
+¿Quieres ir de compras conmigo?,"No, gracias","No, thank you",1
+¿Quieres ir de compras conmigo?,"¡Sí, me encanta comprar!","Yes, I love shopping!",1
+¿Quieres ir de compras conmigo?,¿Compras? ¿Qué es?,Shopping? What is it?,1
+¿Quieres ir de compras conmigo?,"Sí, vamos","Yes, let's go",1
+¿A qué hora te gustaría ir?,A las tres.,At three.,1
+¿A qué hora te gustaría ir?,¿A qué hora?,At what time?,1
+¿A qué hora te gustaría ir?,No sé.,I don't know.,1
+¿A qué hora te gustaría ir?,En la mañana.,In the morning.,1
+¿A qué hora te gustaría ir?,Después del almuerzo.,After lunch.,1
+¿A qué hora te gustaría ir?,Prefiero el café negro.,I prefer black coffee.,0
+¿A qué hora te gustaría ir?,"En verano, me gusta ir a la playa.","In the summer, I like to go to the beach.",0
+¿A qué hora te gustaría ir?,Mañana va a llover.,It is going to rain tomorrow.,0
+¿A qué hora te gustaría ir?,Estoy aprendiendo español ahora.,I am learning Spanish now.,0
+¿A qué hora te gustaría ir?,Normalmente me despierto a las 7.,I usually wake up at 7.,0
+"Vale, nos vemos luego.",Adiós.,Goodbye.,1
+"Vale, nos vemos luego.",¡Vale! Hasta luego.,Okay! See you later.,1
+"Vale, nos vemos luego.","Vale, adiós.","Okay, goodbye.",1
+"Vale, nos vemos luego.",Hasta luego.,See you later.,1
+"Vale, nos vemos luego.","¡Sí, hasta pronto!","Yes, see you soon!",1
+"Vale, nos vemos luego.",Me gusta el café.,I like coffee.,0
+"Vale, nos vemos luego.",Prefiero el té al café.,I prefer tea to coffee.,0
+"Vale, nos vemos luego.",Ayer fui al cine.,"Yesterday, I went to the cinema.",0
+"Vale, nos vemos luego.",Este fin de semana voy a visitar a mi familia.,"This weekend, I am going to visit my family.",0
+"Vale, nos vemos luego.","¡Sí, me encanta comprar!","Yes, I love shopping!",0
+"Hola, ¿cómo estás?",Bien. Gracias,Good. Thank you,1
+"Hola, ¿cómo estás?",Estoy bien. ¿Cómo estás?,I am good. How are you?,1
+"Hola, ¿cómo estás?",haciendo bien,doing well,1
+"Hola, ¿cómo estás?",Hola no me va bien,"Hello, I am not doing well",1
+"Hola, ¿cómo estás?",No demasiado buena,Not too good,1
+"Hola, ¿cómo estás?",Hola que tiempo hace hoy,"Hello, what the weather today",0
+"Hola, ¿cómo estás?",Hola que hora es ahora,"Hello, what time is it right now",0
+"Hola, ¿cómo estás?",Tengo quince años,I am fifteen years old,0
+"Hola, ¿cómo estás?",¿Hola Cuál es su nombre?,Hello what is your name?,0
+"Hola, ¿cómo estás?",¿Puedo saber tu nombre?,Can I know your name?,0
+¿Estás libre hoy?,"No, no soy libre",No. I am not free,1
+¿Estás libre hoy?,No estoy muy ocupada,"No, I am very busy",1
+¿Estás libre hoy?,"No, es un día ocupado.","No, it is a busy day",1
+¿Estás libre hoy?,mi agenda esta llena,My schedule is full,1
+¿Estás libre hoy?,No lo siento. Muy ocupado,No. sorry. Very busy,1
+¿Estás libre hoy?,Sí. El clima de hoy es agradable,Yes. Today's weather is nice,0
+¿Estás libre hoy?,Molly está ocupada,Molly is busy,0
+¿Estás libre hoy?,molly es libre,Molly is free,0
+¿Estás libre hoy?,el cafe es gratis,The coffee is free,0
+¿Estás libre hoy?,El clima es horrible.,Weather is horrible.,0
+¿Quieres ir de compras conmigo?,"No, no puedo","No, I cannot ",1
+¿Quieres ir de compras conmigo?,Perdon no puedo,"Sorry, I cannot ",1
+¿Quieres ir de compras conmigo?,Puedo ir de compras contigo más tarde hoy,I can go shopping with you later today,1
+¿Quieres ir de compras conmigo?,Seguro. ¿a qué hora quieres ir?,Sure. what time do you want to go?,1
+¿Quieres ir de compras conmigo?,Sí. Me encantaría.,Yes. I would love to.,1
+¿Quieres ir de compras conmigo?,El Black Friday es un buen momento para comprar.,Black friday is a good time to shop.,0
+¿Quieres ir de compras conmigo?,este es el nuevo centro comercial,this is the new shopping center,0
+¿Quieres ir de compras conmigo?,A mi hermana le gusta ir de excursión.,My sister like to go hiking,0
+¿Quieres ir de compras conmigo?,me gusta ir de excursión,I like to go hiking ,0
+¿Quieres ir de compras conmigo?,No podrá ir de excursión mañana.,She cannot go to hiking tomorrow.,0
+¿A qué hora te gustaría ir?,¿Que tal esta noche?,How about Tonight?,1
+¿A qué hora te gustaría ir?,¿Será esta noche un buen momento?,will tonight be a good time?,1
+¿A qué hora te gustaría ir?,Puedo hacerlo a las 9 pm.,I can do 9 pm. ,1
+¿A qué hora te gustaría ir?,¿Podemos hacerlo a las 9 pm?,Can we do 9 pm?,1
+¿A qué hora te gustaría ir?,A las 21:00 estará bien.,9pm will be good.,1
+¿A qué hora te gustaría ir?,No,No.,0
+¿A qué hora te gustaría ir?,Esta mañana hace demasiado frío.,This morning is too cool.,0
+¿A qué hora te gustaría ir?,mañana es partido de baloncesto,Tomorrow is basketball game,0
+¿A qué hora te gustaría ir?,va a llover,it is going to rain,0
+¿A qué hora te gustaría ir?,A las nueve de la noche es el partido.,9 pm is the game.,0
+"Vale, nos vemos luego.",Hasta luego,See you later,1
+"Vale, nos vemos luego.",Nos vemos pronto,See you soon,1
+"Vale, nos vemos luego.",Suena bueno,Sounds good,1
+"Vale, nos vemos luego.",Espero con ansias,Look forward to it,1
+"Vale, nos vemos luego.","Si, nos vemos","Yes, see you",1
+"Vale, nos vemos luego.",ella llega tarde,she is late,0
+"Vale, nos vemos luego.",quiero hacer esto es mas tarde,I want do this is later,0
+"Vale, nos vemos luego.",tomo cafe hoy,I have coffee today,0
+"Vale, nos vemos luego.",No.,No ,0
+"Vale, nos vemos luego.",Me gusta la comida.,I like food.,0
+¿Estás libre hoy?,Mi nombre es Bill,My name is Bill,0
+¿Estás libre hoy?,Me gustan los deportes,I like sports,0
+¿Estás libre hoy?,Tengo tres hermanas,I have three siblings,0
+¿Estás libre hoy?,Lo compré en Target,I bought it at Target,0
+¿Estás libre hoy?,Ayer fui a observar aves.,"Yesterday, I went birding",0
+¿Estás libre hoy?,Acabo de regresar del gimnasio y ahora soy libre.,I just got back from the gym and now I am free.,1
+¿Estás libre hoy?,estoy libre después del almuerzo,I am free after lunch,1
+¿Estás libre hoy?,Tengo que hacer mis deberes.,I have to do my homework,1
+¿Estás libre hoy?,Tengo muchas cosas que hacer.,I have a lot going on. ,1
+¿Estás libre hoy?,Estoy disponible a las 2 en punto,I am available at 2 o'clock,1
+¿Quieres ir de compras conmigo?,El año que viene seré estudiante de segundo año.,Next year I'll be a sophmore. ,0
+¿Quieres ir de compras conmigo?,Michael Jordan es el mejor jugador de baloncesto de todos los tiempos.,Michael Jordan is the greatest basketball player of all time. ,0
+¿Quieres ir de compras conmigo?,Soy excelente en ajedrez pero no en damas.,I am excellent at chess but not checkers. ,0
+¿Quieres ir de compras conmigo?,Nosotras tenemos las carnes,We have the meats. ,0
+¿Quieres ir de compras conmigo?,Para convertirse en enfermero se necesitan varios años de horas clínicas.,"To become a nurse, you need several years of clinical hours. ",0
+¿Quieres ir de compras conmigo?,Me encantaría ir de compras contigo.,I would love to go shopping with you. ,1
+¿Quieres ir de compras conmigo?,Si vamos,"Yes, let's go. ",1
+¿Quieres ir de compras conmigo?,"¿Nosotros dos? Sí, compremos melones.","The two of us? Yes, lets buy mellons. ",1
+¿Quieres ir de compras conmigo?,No me gusta el mercado del centro.,I dont' like the market downtown. ,1
+¿Quieres ir de compras conmigo?,Acabo de ir al mercado esta mañana.,I just went to the market this morning. ,1
+¿A qué hora te gustaría ir?,Yo era miembro de la administración.,I was a member of the administration,0
+¿A qué hora te gustaría ir?,Esta es mi tercera reencanación.,This is my third reincarnation.,0
+¿A qué hora te gustaría ir?,Nunca me había sentido tan enamorado.,I have never felt so in love. ,0
+¿A qué hora te gustaría ir?,Crecí en Texas.,I grew up in Texas,0
+¿A qué hora te gustaría ir?,Soy siempre tuyo.,I am forever yours. ,0
+¿A qué hora te gustaría ir?,dos en punto,Two o'clock,1
+¿A qué hora te gustaría ir?,Nos vemos a las cinco y media,Let's meet at five thirty,1
+¿A qué hora te gustaría ir?,Puedo verte allí a las 3:00.,I can meet you there at 3:00,1
+¿A qué hora te gustaría ir?,¿A qué hora te conviene?,What time works for you?,1
+¿A qué hora te gustaría ir?,Te veré allí después del almuerzo.,I'll see you there after lunch. ,1
+"Vale, nos vemos luego.",Mi padre tiene un coche.,My father has a car. ,0
+"Vale, nos vemos luego.",Mi lugar favorito es el gran cañón de Pensilvania.,My favorite place is the Pennsylvania grand canyon.,0
+"Vale, nos vemos luego.",Veo a gente muerta.,I see dead people.,0
+"Vale, nos vemos luego.",Ayer escuché el sonido más hermoso.,"Yesterday, I heard the most beautiful sound.",0
+"Vale, nos vemos luego.",Hay dos tipos de personas.,There are two kinds of people. ,0
+"Vale, nos vemos luego.",adiós,Bye,1
+"Vale, nos vemos luego.",hasta mañana,Until tomorrow,1
+"Vale, nos vemos luego.",nos vemos pronto,See you soon,1
+"Vale, nos vemos luego.",más tarde,Later,1
+"Vale, nos vemos luego.",Tan largo,So long,1
